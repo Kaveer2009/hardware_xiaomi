@@ -11,8 +11,3 @@ cc_defaults {
         "megvii.c",
     ],
 }
-
-cc_library_shared {
-    name: "libmegface",
-    vendor: true,
-}
